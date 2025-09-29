@@ -85,3 +85,19 @@ The app will typically run at `http://localhost:5173` (or a similar port).
 ### Notes Dashboard
 
 ![Notes Dashboard](https://github.com/AzeddineBd/NoteTaking/blob/main/frontend/public/screenshots/dashboard.png)
+
+### Edit Note
+
+![Edit Note](https://github.com/AzeddineBd/NoteTaking/blob/main/frontend/public/screenshots/editNote.png)
+
+### Profile Page
+
+![profile](https://github.com/AzeddineBd/NoteTaking/blob/main/frontend/public/screenshots/profile.png)
+
+### Login Page
+
+![Login Page](https://github.com/AzeddineBd/NoteTaking/blob/main/frontend/public/screenshots/login.png)
+
+### Register Page
+
+![Register Page](https://github.com/AzeddineBd/NoteTaking/blob/main/frontend/public/screenshots/register.png)
