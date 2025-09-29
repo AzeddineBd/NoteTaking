@@ -80,8 +80,8 @@ The app will typically run at `http://localhost:5173` (or a similar port).
 
 ### Landing Page
 
-![Login Page](./public/screenshots/landingPage.png)
+![Login Page](./screenshots/landingPage.png)
 
 ### Notes Dashboard
 
-![Notes Dashboard](./public/screenshots/dashboard.png)
+![Notes Dashboard](./screenshots/dashboard.png)
