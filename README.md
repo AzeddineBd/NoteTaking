@@ -1,7 +1,5 @@
 # 📝 MERN Stack Notes App - Full-Stack Secure Note-Taking Application
 
-![Image placeholder for your app interface: a clean, organized screen showing notes and folders.]
-
 **A robust, full-stack note-taking application built using the modern MERN Stack (MongoDB, Express, React, Node.js).**
 
 ## 🌟 Key Features
